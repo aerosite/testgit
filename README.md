@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spring MVC Showcase
 -------------------
 Demonstrates the capabilities of the Spring MVC web framework through small, simple examples.
@@ -52,3 +53,4 @@ A screen cast showing the showcase in action is [available in QuickTime format](
 2222
 3333
 master
+origin/master
